@@ -1,0 +1,9 @@
+export enum PayoutStatus {
+  DRAFT = 'DRAFT',
+  PENDING_APPROVAL = 'PENDING_APPROVAL',
+  APPROVED = 'APPROVED',
+  SENT = 'SENT',
+  PAID = 'PAID',
+  FAILED = 'FAILED',
+  REJECTED = 'REJECTED',
+}

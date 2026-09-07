@@ -1,0 +1,8 @@
+export enum RoleKey {
+  ADMIN = 'ADMIN',
+  FINANCE = 'FINANCE',
+  OPERATOR = 'OPERATOR',
+  APPROVER = 'APPROVER',
+  AUDITOR = 'AUDITOR',
+  PARTNER = 'PARTNER',
+}

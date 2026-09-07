@@ -1,0 +1,8 @@
+export enum CardEventSource {
+  ONBOARD = 'ONBOARD',
+  KYC_SUBMIT = 'KYC_SUBMIT',
+  RECONCILE = 'RECONCILE',
+  CALLBACK = 'CALLBACK',
+  MANUAL = 'MANUAL',
+  SYSTEM = 'SYSTEM',
+}
